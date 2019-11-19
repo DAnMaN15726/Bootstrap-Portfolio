@@ -1,0 +1,6 @@
+$(".card").on("click", function(){
+
+    
+
+
+});
