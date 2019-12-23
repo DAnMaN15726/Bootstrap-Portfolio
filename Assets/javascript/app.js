@@ -35,3 +35,12 @@ $("#Bamazon").on("click", function(){
     
 
 });
+
+$("#friendFinder").on("click", function(){
+    console.log("CARD-CLICK ACTIVATED");
+    
+    window.open("https://github.com/DAnMaN15726/FriendFinder");
+    window.open("https://secure-harbor-35999.herokuapp.com/");
+    
+
+});
