@@ -44,3 +44,10 @@ $("#friendFinder").on("click", function(){
     
 
 });
+
+$("#burger").on("click", function(){
+    console.log("CARD-CLICK ACTIVATED");
+
+    window.open("https://github.com/DAnMaN15726/burger");
+    window.open("https://pacific-escarpment-91698.herokuapp.com/");
+})
