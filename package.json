@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAnMaN15726/Bootstrap-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAnMaN15726/Bootstrap-Portfolio/issues"
+  },
+  "homepage": "https://github.com/DAnMaN15726/Bootstrap-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.7.3",
+    "sass": "^1.25.0"
+  }
+}
