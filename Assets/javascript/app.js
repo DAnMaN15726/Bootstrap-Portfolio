@@ -50,4 +50,12 @@ $("#burger").on("click", function(){
 
     window.open("https://github.com/DAnMaN15726/burger");
     window.open("https://pacific-escarpment-91698.herokuapp.com/");
-})
+});
+
+$("#passport").on("click", function(){
+    console.log(`CARD-CLICK ACTIVATED`);
+
+    window.open(`https://github.com/aw-exe/Passport`);
+    window.open(`http://passport-aw.herokuapp.com/`);
+});
+
